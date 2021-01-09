@@ -1,7 +1,7 @@
 import amino
 
-email = "luxarcadia328@gmail.com"  # Set your own password here!
-password = "sagar890@"  # Set your own password here!
+email = "luxarcadia.com"  # Set your own password here!
+password = ""  # Set your own password here!
 cid = "226547416"  # Community ID
 
 client = amino.Client()
